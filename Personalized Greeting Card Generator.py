@@ -1,3 +1,4 @@
 print("My name is Neha")
-print("Honesty is the best policy")
-print("cycling")
+print("My favourite quote is hopnesty is best policy.")
+print("MY favorite hobby is cyclying.")
+
